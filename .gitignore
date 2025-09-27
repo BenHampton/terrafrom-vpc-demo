@@ -1,0 +1,23 @@
+# IntelliJ IDEA related files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform cache and plugin directory
+.terraform/
+
+# Variable definition files (if containing sensitive data)
+*.tfvars
+*.auto.tfvars
+
+# Terraform CLI configuration files
+.terraformrc
+terraform.rc
+
+# OS-specific files
+.DS_Stor
