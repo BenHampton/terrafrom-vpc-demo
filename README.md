@@ -1,4 +1,4 @@
-hashicorp account: https://app.terraform.io/app/hashicorp-learn-aws-org/workspaces/learn-terraform-aws
+hashicorp account: https://app.terraform.io/app/hashicorp-learn-aws-org/workspaces/terraform-aws-vpc-demo
 
 ### Main Commands
 `terrafrom init`
